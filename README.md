@@ -53,16 +53,4 @@ In this project we have used a [sample dataset of news articles (CNN , Daily Mai
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
-* [Blog Post](link)
-
-
-## Contributing Team Members
-
-**Team Lead (Contacts) : [Nikhil Gupta](https://github.com/nikhilcss97)**
-
-#### Other Members:
-
-[Blair Fernandes](https://github.com/blair49), [Asjad Baig]
-
-## Contact
-* Feel free to contact me on nikhil.css97@gmail.com with any questions or if you are interested in contributing!
+* [Blog Post](link
